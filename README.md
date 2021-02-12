@@ -7,8 +7,13 @@ out of reach of typical households.
 This project aims to find the perfect sizing of solar array, battery capacity, angles of the solar panels, 
 and other parameters to minimize total system costs, for a particular region of the world. 
 
+### Data
+
 Included in this repository 
-is a weather dataset from CWEEDs, but other locations will need to find their own source of this local data.
+is a weather dataset from CWEEDs, taken from sensors in Fredericton Canada, but if simulating for other locations 
+you will need to find an appropriate source of weather data. 
+ 
+Weather fields used in the simulation are *temperature*, *solar irradiance*, *wind direction*, *wind speed*, and time of day.
  
 ---
 
