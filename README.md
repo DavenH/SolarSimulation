@@ -17,7 +17,7 @@ Weather fields used in the simulation are *temperature*, *solar irradiance*, *wi
  
 ---
 
-###Approach  
+### Approach  
  
 I use real weather data of solar irradiance, cloud cover, temperature, taken from local measurements to 
 simulate solar generation capacity. I use a model of typical household appliances to simulate demand and 
