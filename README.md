@@ -59,6 +59,7 @@ very rarely falls below the level that would incur costly backup generator usage
 
 Values determined by grid search for the best total system cost as a function of battery size. 
 Costs of battery and backup generator are amortized annually.
+
 ![](media/SolarVsTime2.png)
 
 ---
