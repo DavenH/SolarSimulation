@@ -17,18 +17,6 @@
         </dependency>
 
         <dependency>
-            <groupId>io.jenetics</groupId>
-            <artifactId>jenetics</artifactId>
-            <version>5.2.0</version>
-        </dependency>
-
-        <dependency>
-            <groupId>org.knowm.xchart</groupId>
-            <artifactId>xchart</artifactId>
-            <version>3.6.1</version>
-        </dependency>
-
-        <dependency>
             <groupId>net.e175.klaus</groupId>
             <artifactId>solarpositioning</artifactId>
             <version>0.0.9</version> <!-- or whatever latest release is -->
